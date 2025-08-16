@@ -8,7 +8,9 @@ from fastapi import APIRouter, HTTPException
 from schemas import BrandInsights
 from scraper import ShopifyScraper, WebsiteNotFoundError, ScrapingError
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), 'llm'))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), 'app'))
 from structurizer import structurize_website_data
+from db_insert import insert_brand_insights
 
 router = APIRouter()
 
@@ -19,6 +21,8 @@ async def get_shopify_insights(website_url: str):
         insights = scraper.get_all_insights()
         # Use LLM to structure the insights
         structured = structurize_website_data(insights.__dict__ if hasattr(insights, '__dict__') else insights)
+        # Store in MySQL
+        insert_brand_insights(structured)
         return structured
     except WebsiteNotFoundError:
         raise HTTPException(status_code=404, detail="Website not found or inaccessible")

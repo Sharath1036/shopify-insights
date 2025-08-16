@@ -1,0 +1,647 @@
+{
+  "store_url": "http://memy.co.in/",
+  "product_catalog": [
+    {
+      "id": "8835285745827",
+      "title": "Royal Purple Cotton Printed Kurta Set with Dupatta",
+      "description": {
+        "product_type": "3pc Dupatta Set",
+        "product_sku": "MD6CTNPRPL522",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Purple",
+        "includes": "Top, Bottom & Dupatta",
+        "fit": "Regular Fit",
+        "neck": "V-Neck",
+        "dupatta_length": "2.15 Mtr",
+        "work": "Border on Neck",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please check below",
+        "manufactured_by": "Threadily Brands Private Limited, Jaipur"
+      },
+      "price": 1299,
+      "available": false,
+      "url": "http://memy.co.in/products/royal-purple-cotton-printed-kurta-set-with-dupatta",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/522_4_a726c412-1cf2-4ee3-afbd-872090df3cba.jpg?v=1755252292"
+    },
+    {
+      "id": "8834473459875",
+      "title": "Frost Shell Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/frost-shell-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/542_6_6f3f453a-a810-4d5e-aa4f-7e8079a8ea74.jpg?v=1755158004"
+    },
+    {
+      "id": "8834473427107",
+      "title": "Pearl Mist Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/pearl-mist-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/540_2_961fba86-e127-41aa-a17c-1dc649b361cc.jpg?v=1755158001"
+    },
+    {
+      "id": "8834473394339",
+      "title": "Porcelain Drift Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/porcelain-drift-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/535_3_68d4cae4-c1e4-4c50-be3f-30c3b384950c.jpg?v=1755157997"
+    },
+    {
+      "id": "8834473361571",
+      "title": "Oyster Calm Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/oyster-calm-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/534_12_e2bc1300-39d6-4141-b507-addb4ee91fad.jpg?v=1755157994"
+    },
+    {
+      "id": "8834473328803",
+      "title": "Frost Veil Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/frost-veil-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/533_7_9f89538e-4fe2-4ebb-91f9-973615acfdc0.jpg?v=1755157991"
+    },
+    {
+      "id": "8834473296035",
+      "title": "Opal Haze Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/opal-haze-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/530_9_e610213a-2c18-492f-847d-0619e2609f3f.jpg?v=1755157988"
+    },
+    {
+      "id": "8834473263267",
+      "title": "Sandstone Serenity Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/sandstone-serenity-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/529_2_668a1a9a-a4ee-4b0d-b582-51022284d4e1.jpg?v=1755157985"
+    },
+    {
+      "id": "8834473230499",
+      "title": "Moonlit Mist Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/moonlit-mist-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/437_7_5bd6cd58-6646-4661-9022-15a6fe21c407.jpg?v=1755157983"
+    },
+    {
+      "id": "8834473197731",
+      "title": "Bluebell Charm Off-White Cotton Flex Printed Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/bluebell-charm-offwhite-cotton-flex-printed-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/429_1_33fc4f65-0358-410c-9abf-42d3330beaab.jpg?v=1755157979"
+    },
+    {
+      "id": "8834473164963",
+      "title": "Sunlit Petals Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/sunlit-petals-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/328A7705_afd54062-7876-4841-89c8-c41c75d34091.jpg?v=1755157976"
+    },
+    {
+      "id": "8831952552099",
+      "title": "Fiesta Rouge Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Red",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/fiesta-rouge-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/466_3_07b2e26e-8853-4d9e-a754-a2d34a43b438.jpg?v=1755147639"
+    },
+    {
+      "id": "8831952388259",
+      "title": "Coral Radiance Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Red",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/coral-radiance-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/465_1_fecd8026-be4f-4b2f-ae80-d314dac4fefd.jpg?v=1755147638"
+    },
+    {
+      "id": "8831952257187",
+      "title": "Verdure Grace Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Olive Green",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/verdure-grace-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/464_1_2d9aafe0-dd6a-4413-9abb-0a34439cccf9.jpg?v=1755147620"
+    },
+    {
+      "id": "8831952027811",
+      "title": "Celestial Bloom Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Blue",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/celestial-bloom-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/463_11_9dad3d5c-4e72-42ed-8574-7ee6e78cccdb.jpg?v=1755147603"
+    },
+    {
+      "id": "8831951896739",
+      "title": "Wild Petunia Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Red",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/wild-petunia-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/479_3_029345ce-fba5-4380-869d-89f8d1b234ee.jpg?v=1755146064"
+    },
+    {
+      "id": "8831951765667",
+      "title": "Floral Rhapsody Green Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Green",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/floral-rhapsody-green-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/527_8_48a4ae3e-1b16-42cb-a9c0-dd40ddec0256.jpg?v=1755146044"
+    },
+    {
+      "id": "8831951667363",
+      "title": "loral Rhapsody Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Multi",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/floral-rhapsody-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/490_1_8fd4da64-9406-499e-9cfc-7d59aec5503c.jpg?v=1755146039"
+    },
+    {
+      "id": "8831951536291",
+      "title": "Celeste Bloom Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Blue",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/celeste-bloom-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/499_11_9f3381ee-de99-4390-8b55-609009ced27e.jpg?v=1755146019"
+    },
+    {
+      "id": "8831951405219",
+      "title": "Blue Terra Botanica Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Blue",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/blue-terra-botanica-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/482_7_ac375434-ea37-4d81-a0ac-88d6435a3bae.jpg?v=1755145994"
+    },
+    {
+      "id": "8831951306915",
+      "title": "Blue Petal Grove Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Blue",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/blue-petal-grove-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/480-_2_0596a7ea-b409-4e6e-bdc1-16288b615d4f.jpg?v=1755145975"
+    },
+    {
+      "id": "8831951241379",
+      "title": "Blue Coral Bloom Cotton Top",
+      "description": {
+        "product_type": "Top",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Blue",
+        "includes": "Top",
+        "fit": "Regular Fit",
+        "side_pockets": "No Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 649,
+      "available": false,
+      "url": "http://memy.co.in/products/blue-coral-bloom-cotton-top",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/475_6_216703e3-2cd0-466f-b184-08c507d2cacc.jpg?v=1755145957"
+    },
+    {
+      "id": "8831947079843",
+      "title": "Bluebell Charm Off-White Cotton Printed Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/bluebell-charm-offwhite-cotton-printed-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/429_10_664cde32-83b1-4f42-ab50-4ada7ab555f9.jpg?v=1754925206"
+    },
+    {
+      "id": "8831946784931",
+      "title": "IvoryFlex Off-White Cotton Flex Co-ord Set",
+      "description": {
+        "product_type": "Cord Set",
+        "fabric": "Cotton Flex",
+        "print": "Floral Print",
+        "color": "Off white",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 999,
+      "available": false,
+      "url": "http://memy.co.in/products/ivoryflex-offwhite-cotton-flex-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/462-0_3_e8ab223d-6037-4ab2-ba9c-2903ba864be6.jpg?v=1754910208"
+    },
+    {
+      "id": "8831946653859",
+      "title": "Floral Symphony Off-White Cotton Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Geometric Print",
+        "color": "Mustard",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 849,
+      "available": false,
+      "url": "http://memy.co.in/products/floral-symphony-offwhite-cotton-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/402_9_37c8161c-82d5-4379-8ccf-1b2aa0821d4f.jpg?v=1755149828"
+    },
+    {
+      "id": "8831946555555",
+      "title": "Amber Blossom Yellow Floral Cotton Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Floral Print",
+        "color": "Yellow",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 799,
+      "available": false,
+      "url": "http://memy.co.in/products/amber-blossom-yellow-floral-cotton-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/359-_5_528e1ca3-af32-484a-909d-50cc91b36877.jpg?v=1755149809"
+    },
+    {
+      "id": "8831946457251",
+      "title": "Summer Sorbet Ikat Cotton Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Ikat",
+        "color": "Blue",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 799,
+      "available": false,
+      "url": "http://memy.co.in/products/summer-sorbet-ikat-cotton-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/351_10_41ab0909-211f-446e-88f5-3fd7553a9feb.jpg?v=1755149791"
+    },
+    {
+      "id": "8831946358947",
+      "title": "Sunshine Ikat Printed Cotton Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Geometric",
+        "color": "Mustard",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 799,
+      "available": false,
+      "url": "http://memy.co.in/products/sunshine-ikat-printed-cotton-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/1003-_2_978d9be4-3668-4e94-9fc7-1ffcb23b8a2b.jpg?v=1755149779"
+    },
+    {
+      "id": "8831946195107",
+      "title": "Sage Serenity Green Cotton Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Ikat",
+        "color": "Green",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 799,
+      "available": false,
+      "url": "http://memy.co.in/products/sage-serenity-green-cotton-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/354_1_5fd51662-4b9f-40dd-ba97-9054755a4c64.jpg?v=1755149764"
+    },
+    {
+      "id": "8825399869603",
+      "title": "Sunbeam Cotton Printed Co-ord Set",
+      "description": {
+        "product_type": "Co-ord Set",
+        "fabric": "Cotton",
+        "print": "Ikat Print",
+        "color": "Yellow",
+        "includes": "Top & Bottom",
+        "fit": "Regular Fit",
+        "side_pockets": "Both Pockets",
+        "sleeves": "3/4th Sleeves",
+        "wash_care": "Please Check Below",
+        "manufactured_by": "Threadily Brands Private Limited"
+      },
+      "price": 799,
+      "available": false,
+      "url": "http://memy.co.in/products/sunbeam-cotton-printed-coord-set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0635/3453/0723/files/347_13_74af94c3-af6e-40e3-bb58-66152609bfcc.jpg?v=1754546486"
+    }
+  ],
+  "hero_products": [],
+  "privacy_policy": "",
+  "return_refund_policy": "",
+  "faqs": [],
+  "social_handles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/memy.co.in",
+      "handle": null
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/memy.co.in/",
+      "handle": null
+    }
+  ],
+  "contact_info": {
+    "emails": [
+      "care@memy.co.in"
+    ],
+    "phone_numbers": [],
+    "addresses": []
+  },
+  "about_brand": {
+    "name": "Threadily Apparels",
+    "plot": "Plot No.32-33, Jaipur, Rajasthan302021",
+    "contact": {
+      "phone": "02269620753",
+      "email": "care@memy.co.in"
+    }
+  },
+  "important_links": {
+    "return_or_exchange": "https://memy.co.in/apps/ecoreturns",
+    "track_my_order": "https://memy.shiprocket.co/tracking",
+    "facebook": "https://www.facebook.com/memy.co.in",
+    "instagram": "https://www.instagram.com/memy.co.in/"
+  },
+  "extracted_at": "2025-08-16T11:39:10.179587",
+  "metadata": {}
+}

@@ -19,6 +19,20 @@ def structurize_website_data(raw_data: dict) -> dict:
     serializable_data = make_serializable(raw_data)
     raw_text = json.dumps(serializable_data, indent=2, ensure_ascii=False)
     prompt = (
-        "You are an expert data extractor. Given the following website data, return ONLY a valid JSON object with all relevant fields, categories, and values. Do not include any explanation or markdown, just the JSON."
+        "You are an expert data extractor. Given the following website data, return ONLY a valid JSON object with all relevant fields, categories, and values. Do not include any explanation or markdown, just the JSON. If you cannot extract or structure, return the input as valid JSON."
     )
-    return structure_with_llama(raw_text, system_prompt=prompt)
+    try:
+        result = structure_with_llama(raw_text, system_prompt=prompt)
+        if isinstance(result, dict):
+            return result
+        # If result is a string, try to load as JSON
+        import json
+        try:
+            return json.loads(result)
+        except Exception:
+            return {"raw": result}
+    except Exception as e:
+        # fallback: always return a dict
+        if isinstance(serializable_data, dict):
+            return serializable_data
+        return {"raw": str(serializable_data)}
