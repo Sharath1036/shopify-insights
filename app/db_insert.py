@@ -48,10 +48,14 @@ def insert_brand_insights(data: dict):
     brand_id = cursor.fetchone()[0]
     # Helper to clear and insert child tables
     def clear_and_insert(table, items, columns):
+        print(f"Inserting into {table}: items={items}")
         cursor.execute(f"DELETE FROM {table} WHERE brand_id=%s", (brand_id,))
         if not items:
             return
         for item in items:
+            if not isinstance(item, dict):
+                print(f"Skipping non-dict item in {table}: {type(item)} - {item}")
+                continue  # skip if not a dict
             vals = tuple(item.get(col) for col in columns)
             cursor.execute(
                 f"INSERT INTO {table} (brand_id, {', '.join(columns)}) VALUES (%s, {', '.join(['%s']*len(columns))})",
