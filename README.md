@@ -46,3 +46,6 @@ uvicorn main:app --reload
 ```
 
 In the `/api/v1/insights` click on Try it Out and add any website URL and click on Execute.
+
+## Entity Relationship Diagram
+![ER Diagram](er_diagram.png)
