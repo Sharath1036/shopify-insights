@@ -99,7 +99,7 @@ TABLES['contact_info'] = (
 
 def create_database(cursor):
     try:
-        cursor.execute(f"CREATE DATABASE IF NOT EXISTS {DB_NAME} DEFAULT CHARACTER SET 'utf8mb4'")
+        cursor.execute(f"CREATE DATABASE IF NOT EXISTS `{DB_NAME}` DEFAULT CHARACTER SET 'utf8mb4'")
     except mysql.connector.Error as err:
         print(f"Failed creating database: {err}")
         exit(1)
